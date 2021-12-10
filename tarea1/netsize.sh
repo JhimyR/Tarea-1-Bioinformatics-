@@ -1,6 +1,6 @@
 # TAREA 1 - BIOINFORMÁTICA :+1:
 
-### CONCEPTOS CLAROS <3
+### CONCEPTOS CLAROS :heart:
 
 Tutorial de conceptos básicos para aprender R
 
@@ -14,10 +14,10 @@ Tutorial de conceptos básicos para aprender R
 
                       TABlA DE CONTENIDO
 
-El corazón: R
-EL cuerpo: Rstudio
-Mini- tutorial de instalación de R y Rstudio
-Ejecutar tu primer script de R
+1 El corazón: R
+2 El cuerpo: Rstudio
+3 Mini- tutorial de instalación de R y Rstudio
+4 Ejecutar tu primer script de R
 
 
 ##EL corazón: R
