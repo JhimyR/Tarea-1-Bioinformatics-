@@ -62,5 +62,11 @@ Aqui  tienes la web <https://conceptosclaros.com/instalar-r-primeros-pasos/>
    - Pri mero debes amarte a ti mismo bro , si te quieres  nunca buscaras a tu ex .
    - Como te QUEDASTE 💩  
 Un video para que te motives y sobre todo nada esta perdido hasta intentar el ultimo recurso <https://www.youtube.com/watch?v=fBNplVDb5mw>
+
+
 ## Esto ha sido todo amigos :+1: :heart:
   :cat: :zap:
+No puedes dejar que nadie te cambie.
+
+
+
