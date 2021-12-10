@@ -28,13 +28,14 @@ Esta es la <https://www.rstudio.com/> puedes descargarte RStudio y algunas packa
 Existen dos productos:
  * RStudio desktop, para trabajar con RStudio en PC.
  * RStudio server, para tener RStudio en tu servidor.
+                       
                        Mini- tutorial de instalacion de R y RStudio
 Lo de instalar es muy fácil pero quiero que veas como se organiza R en tu PC y que cosas importantes.
 hay que tener en cuenta cuando estamos utilizando RStudio.
 
 Aqui esta el link <https://youtu.be/IyJuTU82ikM> ahi te explica detalladamente como debes instalar.
 
-                     Ejecuta tu primer script de R
+                       Ejecuta tu primer script de R
 Te dejo otro vídeo con los consejos para que ejecutes tu primer código de R . (Lo típico que no te dice nadie y que es super útil)
 
 Estos son los truquitos que te enseño:
@@ -45,19 +46,18 @@ Para ejecutar lineas de código desde el RScript estan fácil como seleccionar l
 Te enseño a instalar y cargar packages.
 
 El link del vide <https://youtu.be/iRJE-GBwU4k>
-
+Por si te interesa algo más aqui estan curso como debes instalar Python <https://www.youtube.com/watch?v=DAdRO6ByBoU>
 ¡Espero te haya gustado y te animes!
-  
+
 Aqui  tienes la web <https://conceptosclaros.com/instalar-r-primeros-pasos/>
 
 :clown_face: Tu unica oportunidad no la desperdicies :+1: :shipit:
-   
+
    :+1:
-## Descubre lo genial que es el mundo de la programación 
-   -Ahora si viene lo bueno
-## UN TUTORIALISIMO COMO SUPERAR A TU EX , SIN QUE TE DUELA TANTO EL CORAZÓN 
-   -Pri mero debes amarte a ti mismo bro , si te quieres  nunca buscaras a tu ex .
-   -Como te QUEDASTE 💩  
-## En fin ... No es todo :+1:
-
-
+## Descubre lo genial que es el mundo de la programación
+   - Ahora si viene lo bueno
+## UN TUTORIALISIMO COMO SUPERAR A TU EX , SIN QUE TE DUELA TANTO EL CORAZÓN
+   - Pri mero debes amarte a ti mismo bro , si te quieres  nunca buscaras a tu ex .
+   - Como te QUEDASTE 💩  
+Un video para que te motives y sobre todo nada esta perdido hasta intentar el ultimo recurso <https://www.youtube.com/watch?v=fBNplVDb5mw>
+## En fin no es todo :+1:
