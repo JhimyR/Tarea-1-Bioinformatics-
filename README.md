@@ -57,6 +57,7 @@ Aqui  tienes la web <https://conceptosclaros.com/instalar-r-primeros-pasos/>
    -Ahora si viene lo bueno
 ## UN TUTORIALISIMO COMO SUPERAR A TU EX , SIN QUE TE DUELA TANTO EL CORAZÓN 
    -Pri mero debes amarte a ti mismo bro , si te quieres  nunca buscaras a tu ex .
-   -/Como te QUEDOASTE 💩  
-## En fin ... 
+   -Como te QUEDASTE 💩  
+## En fin ... No es todo :+1:
+
 
