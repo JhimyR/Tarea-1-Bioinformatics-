@@ -1,5 +1,7 @@
 # TAREA 1 - BIOINFORMÁTICA :+1:
 
+### CONCEPTOS CLAROS <3
+
 Tutorial de conceptos básicos para aprender R
 
 ## Tutorial de R para principiantes. Consejos para empezar con buen pie
