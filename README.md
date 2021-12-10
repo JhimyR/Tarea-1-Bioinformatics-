@@ -8,7 +8,7 @@ Tutorial de conceptos básicos para aprender R
 
 ### Es gratuito !  NO TE LO PIERDAS :clown_face:
 
-Tabla de contenido [ocultar]
+                      Tabla de contenido [ocultar]
 
 El corazón: R
 EL cuerpo: Rstudio
@@ -60,4 +60,4 @@ Aqui  tienes la web <https://conceptosclaros.com/instalar-r-primeros-pasos/>
    - Pri mero debes amarte a ti mismo bro , si te quieres  nunca buscaras a tu ex .
    - Como te QUEDASTE 💩  
 Un video para que te motives y sobre todo nada esta perdido hasta intentar el ultimo recurso <https://www.youtube.com/watch?v=fBNplVDb5mw>
-## En fin no es todo :+1:
+## Esto ha sido todo amigos :+1: :heart:
