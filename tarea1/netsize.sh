@@ -28,7 +28,9 @@ Para instalar R es muy sencillo. Simplemente ve al <https://cran.r-project.org/b
 
 Basicamente es una interfas de R.Por eso nacio RStudio es muy parecida a Matlab y muy intituiva.
 Vamos a instalar RStudio.
+
 Esta es la <https://www.rstudio.com/> puedes descargarte RStudio y algunas packages más comerciales.
+
 Existen dos productos:
  * RStudio desktop, para trabajar con RStudio en PC.
  * RStudio server, para tener RStudio en tu servidor.
@@ -60,7 +62,7 @@ Por si te interesa algo más aqui estan curso como debes instalar Python <https:
 
 Aqui  tienes la web <https://conceptosclaros.com/instalar-r-primeros-pasos/>
 
-:clown_face: Tu unica oportunidad no la desperdicies :+1: :shipit:
+Tu unica oportunidad no la desperdicies :+1: :shipit:
 
 
 :-1: :-1: :-1: :-1: :-1: :+1: :-1: :+1:
