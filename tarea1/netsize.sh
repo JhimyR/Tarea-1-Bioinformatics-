@@ -10,7 +10,7 @@ Tutorial de conceptos básicos para aprender R
 
 ### Es gratuito !  NO TE LO PIERDAS :clown_face:
 
-                      Tabla de contenido [ocultar]
+                      TABlA DE CONTENIDO
 
 El corazón: R
 EL cuerpo: Rstudio
