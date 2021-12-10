@@ -47,7 +47,8 @@ Mirar que todos los packages que estés utilizando los tengas instalados y carga
 Para ejecutar lineas de código desde el RScript estan fácil como seleccionar la línea. Una vez seleccionada pulsa Ctrl + Enter.
 Te enseño a instalar y cargar packages.
 
-El link del vide <https://youtu.be/iRJE-GBwU4k>
+El link del video <https://youtu.be/iRJE-GBwU4k> y <https://www.youtube.com/watch?v=chPhlsHoEPo>
+
 Por si te interesa algo más aqui estan curso como debes instalar Python <https://www.youtube.com/watch?v=DAdRO6ByBoU>
 ¡Espero te haya gustado y te animes!
 
