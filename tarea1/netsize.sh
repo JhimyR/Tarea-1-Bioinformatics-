@@ -18,7 +18,7 @@ Mini- tutorial de instalación de R y Rstudio
 Ejecutar tu primer script de R
 
 
-                       EL corazzón: R
+                       EL corazón: R
 
 Para instalar R es muy sencillo. Simplemente ve al <https://cran.r-project.org/bin/windows/base/> y escoge el archivo apropiado para tu sistema operativo.
 
@@ -40,7 +40,7 @@ Aqui esta el link <https://youtu.be/IyJuTU82ikM> ahi te explica detalladamente c
                        Ejecuta tu primer script de R
 Te dejo otro vídeo con los consejos para que ejecutes tu primer código de R . (Lo típico que no te dice nadie y que es super útil)
 
-Estos son los truquitos que te enseño:
+Estos son los trucos que te enseño:
 
 Comprobar en que fichero estás trabajando.
 Mirar que todos los packages que estés utilizando los tengas instalados y cargados.
@@ -61,5 +61,5 @@ Aqui  tienes la web <https://conceptosclaros.com/instalar-r-primeros-pasos/>
   
   
   
-  
+  No olvides revisar los videos son muy importantes
   
