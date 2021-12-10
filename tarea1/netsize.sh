@@ -55,6 +55,9 @@ Aqui  tienes la web <https://conceptosclaros.com/instalar-r-primeros-pasos/>
 
 :clown_face: Tu unica oportunidad no la desperdicies :+1: :shipit:
 
+
+:-1: :-1: :-1: :-1: :-1: :+1: :-1: :+1:
+
   
   
   
