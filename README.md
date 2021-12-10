@@ -1,4 +1,4 @@
-# Tarea 1
+# TAREA 1 - BIOINFORMÁTICA :+1:
 Tutorial de conceptos básicos para aprender R
 ## Tutorial de R para principiantes. Consejos para empezar con buen pie
 -  No lo dejes para otro día. No procrastines más lo inevitable. Es momento de empezar a usar el potente software de Esdatística: R. Es el momento que te tires a la piscina. En este post te muestro el tutorial para principiantes de R.
