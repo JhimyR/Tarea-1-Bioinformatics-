@@ -55,18 +55,8 @@ Aqui  tienes la web <https://conceptosclaros.com/instalar-r-primeros-pasos/>
 
 :clown_face: Tu unica oportunidad no la desperdicies :+1: :shipit:
 
-   :+1:
-## Descubre lo genial que es el mundo de la programación
-   - Ahora si viene lo bueno
-## UN TUTORIALISIMO COMO SUPERAR A TU EX , SIN QUE TE DUELA TANTO EL CORAZÓN
-   - Pri mero debes amarte a ti mismo bro , si te quieres  nunca buscaras a tu ex .
-   - Como te QUEDASTE 💩  
-Un video para que te motives y sobre todo nada esta perdido hasta intentar el ultimo recurso <https://www.youtube.com/watch?v=fBNplVDb5mw>
-
-
-## Esto ha sido todo amigos :+1: :heart:
-  :cat: :zap:
-No puedes dejar que nadie te cambie.
-
-
-
+  
+  
+  
+  
+  
